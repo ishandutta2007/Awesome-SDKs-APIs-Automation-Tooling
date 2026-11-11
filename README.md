@@ -27,7 +27,7 @@
   - [📊 Commercial SaaS Comparison Matrix](#-commercial-saas-comparison-matrix)
   - [🔍 SaaS Platform Deep Dives](#-saas-platform-deep-dives)
 - [🟩 Open-Source Software](#-open-source-software)
-  - [⭐ Open-Source Solutions by Star Count](#-open-source-solutions-by-star-count)
+  - [⭐ Open-Source Solutions by Stars_Count](#-open-source-solutions-by-star-count)
   - [🔬 Open-Source Project Deep Dives](#-open-source-project-deep-dives)
 - [⚖️ Comparison at a Glance](#-comparison-at-a-glance)
 - [📈 Star History](#-star-history)
@@ -111,11 +111,11 @@ Commercial, cloud-hosted SDK, API, and automation tooling platforms sorted in de
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven SDK, API, and automation tooling solutions sorted by GitHub star count.
+Self-hosted, community-driven SDK, API, and automation tooling solutions sorted by GitHub Stars_Count.
 
-### ⭐ Open-Source Solutions by Star Count
+### ⭐ Open-Source Solutions by Stars_Count
 
-| Software | GitHub Stars | Primary Language / Stack | License | Category |
+| Software | GitHub_Stars | Primary Language / Stack | License | Category |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Hoppscotch](https://hoppscotch.io)** | [![Hoppscotch Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | TypeScript / Vue.js | MIT | API Development & Testing Client |
 | **[Ansible](https://www.ansible.com/)** | [![Ansible Stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers) | Python | GPL-3.0 | IT Automation & Configuration Engine |
@@ -254,7 +254,7 @@ Contributions are warmly welcomed! If you maintain or discover an outstanding SD
 
 1. Fork this repository.
 2. Add your entry under the appropriate section following valuation or star-count sorting guidelines.
-3. Include the project's repository URL, tech stack, license, live Star Badge, and a concise summary.
+3. Include the project's repository URL, tech stack, license, live Stars_Badge, and a concise summary.
 4. Submit a Pull Request with a clear description of why the tool is valuable.
 
 Please ensure that open-source submissions are actively maintained and carry an established open-source license.
