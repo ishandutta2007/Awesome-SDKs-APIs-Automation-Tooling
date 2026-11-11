@@ -111,7 +111,7 @@ Commercial, cloud-hosted SDK, API, and automation tooling platforms sorted in de
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven SDK, API, and automation tooling solutions sorted by GitHub Stars_Count.
+Self-hosted, community-driven SDK, API, and automation tooling solutions sorted by GitHub_Stars_Count.
 
 ### ⭐ Open-Source Solutions by Stars_Count
 
